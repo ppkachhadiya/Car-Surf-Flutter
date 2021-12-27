@@ -88,7 +88,7 @@ class _CommonBigButtonState extends State<CommonBigButton> {
 
 
 
-class BigButton{
+class BigButton1{
   BigWhiteButton({
     required String name,
     required fontWeight,

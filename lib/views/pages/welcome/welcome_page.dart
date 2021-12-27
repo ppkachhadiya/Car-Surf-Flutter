@@ -32,7 +32,7 @@ class _WelcomePageState extends State<WelcomePage> {
             Center(child: Container(height: 24.h,width: 151.w,child: Image.asset('assets/logo/Logo.png'),),),
 
             Positioned(bottom: 88,left: 40,
-              child: BigButton().BigWhiteButton(name: 'Login/Register',
+              child: BigButton1().BigWhiteButton(name: 'Login/Register',
                   fontWeight: FontWeight.bold, fontSize: 14, color: ColorsConstants.DARK_TEXT_COLOR),),
 
             Positioned(bottom: 32,left: 88,
