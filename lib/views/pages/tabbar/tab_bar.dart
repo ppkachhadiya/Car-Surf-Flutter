@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 class ContainerDesign extends StatelessWidget {
@@ -20,18 +19,18 @@ class ContainerDesign extends StatelessWidget {
             bottom: TabBar(
               unselectedLabelColor: Colors.teal,
               indicatorPadding: EdgeInsets.only(left: 10,right: 10),
-              indicatorSize: TabBarIndicatorSize.tab,
+               indicatorSize: TabBarIndicatorSize.tab,
               indicator: ShapeDecoration(
-                  color: Colors.teal,
-                  shape: BeveledRectangleBorder(borderRadius: BorderRadius.circular(10),side: BorderSide(color: Colors.teal))
+                color: Colors.teal,
+                shape: BeveledRectangleBorder(borderRadius: BorderRadius.circular(10),side: BorderSide(color: Colors.teal))
               ),
               tabs: [
                 Tab(
 
-                  child: Align(
-                    child: Text('APPS',style: TextStyle(fontSize: 15),),
+                    child: Align(
+                      child: Text('APPS',style: TextStyle(fontSize: 15),),
+                    ),
                   ),
-                ),
 
                 Tab(
                   child: Align(
