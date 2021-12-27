@@ -64,7 +64,7 @@ class BackGroundGif extends StatelessWidget {
       child: Container(height: double.infinity,width: double.infinity,
         decoration: BoxDecoration(
             image: DecorationImage(
-                image: AssetImage("assets/images/Image4.jpg"),
+                image: AssetImage("assets/images/Image7.gif"),
                 fit: BoxFit.cover)
         ),
       ),
