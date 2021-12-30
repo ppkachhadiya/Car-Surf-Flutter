@@ -1,2 +1,0 @@
-com/hypertrack/sdk/flutter/BuildConfig.java
- com.hypertrack.sdk.flutter.BuildConfig
