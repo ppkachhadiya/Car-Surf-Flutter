@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'package:cleaner/constants/string_constants.dart';
-import 'package:cleaner/views/pages/news/news_page.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

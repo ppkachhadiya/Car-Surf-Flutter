@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Flutter\\Applications\\Car Surf\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\BitCoding\\Flutter\\Applications\\Car Surf\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\Flutter\\Applications\\Car Surf\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\BitCoding\\Flutter\\Applications\\Car Surf\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

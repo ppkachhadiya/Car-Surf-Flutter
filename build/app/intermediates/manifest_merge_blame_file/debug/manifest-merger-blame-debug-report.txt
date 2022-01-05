@@ -12,50 +12,50 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:4:5-67
-14-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:4:22-64
+14-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:4:5-67
+14-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:4:22-64
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:5:5-79
-15-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:5:22-76
+15-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:5:5-79
+15-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:5:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:6:5-81
-16-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:6:22-78
+16-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:6:5-81
+16-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:6:22-78
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[:connectivity] E:\Flutter\Applications\Car Surf\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-17-->[:connectivity] E:\Flutter\Applications\Car Surf\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+17-->[:connectivity] E:\BitCoding\Flutter\Applications\Car Surf\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+17-->[:connectivity] E:\BitCoding\Flutter\Applications\Car Surf\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 18
 19    <application
-19-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:8:5-63:19
+19-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:8:5-63:19
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e31073528c520db0b9ab5ae1b9a80fcf\core-1.1.0\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/ic_launcher"
-22-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:9:9-43
+22-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:9:9-43
 23        android:label="cleaner"
-23-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:10:9-32
+23-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:10:9-32
 24        android:usesCleartextTraffic="true" >
-24-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:11:9-44
+24-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:11:9-44
 25        <meta-data
-25-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:13:9-15:71
+25-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:13:9-15:71
 26            android:name="com.google.android.geo.API_KEY"
-26-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:14:13-58
+26-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:14:13-58
 27            android:value="AIzaSyAWBhCjXVtXGNDB2iinSwuqMSL0eYaDXUI" />
-27-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:15:13-68
+27-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:15:13-68
 28
 29        <activity
-29-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:17:9-54:20
+29-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:17:9-54:20
 30            android:name="com.cleanetto.cleaner.MainActivity"
-30-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:18:13-41
+30-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:18:13-41
 31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-31-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:19:13-163
+31-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:19:13-163
 32            android:hardwareAccelerated="true"
-32-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:20:13-47
+32-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:20:13-47
 33            android:launchMode="singleInstance"
-33-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:21:13-48
+33-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:21:13-48
 34            android:theme="@style/LaunchTheme"
-34-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:22:13-47
+34-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:22:13-47
 35            android:windowSoftInputMode="adjustResize" >
-35-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:23:13-55
+35-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:23:13-55
 36
 37            <!--
 38                 Specifies an Android theme to apply to this Activity as soon as
@@ -64,11 +64,11 @@
 41                 to determine the Window background behind the Flutter UI.
 42            -->
 43            <meta-data
-43-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:28:13-30:57
+43-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:28:13-30:57
 44                android:name="io.flutter.embedding.android.NormalTheme"
-44-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:29:17-72
+44-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:29:17-72
 45                android:resource="@style/NormalTheme" />
-45-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:30:17-54
+45-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:30:17-54
 46            <!--
 47                 Displays an Android View that continues showing the launch screen
 48                 Drawable until Flutter paints its first frame, then this splash
@@ -77,47 +77,47 @@
 51                 Flutter's first frame.
 52            -->
 53            <meta-data
-53-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:36:13-38:66
+53-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:36:13-38:66
 54                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-54-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:37:17-81
+54-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:37:17-81
 55                android:resource="@drawable/launch_background" />
-55-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:38:17-63
+55-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:38:17-63
 56
 57            <intent-filter>
-57-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:39:13-42:29
+57-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:39:13-42:29
 58                <action android:name="android.intent.action.MAIN" />
-58-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:40:17-69
-58-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:40:25-66
+58-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:40:17-69
+58-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:40:25-66
 59
 60                <category android:name="android.intent.category.LAUNCHER" />
-60-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:41:17-77
-60-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:41:27-74
+60-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:41:17-77
+60-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:41:27-74
 61            </intent-filter>
 62
 63            <!-- Deep Links -->
 64            <intent-filter android:autoVerify="true" >
-64-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:46:12-52:29
-64-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:46:27-52
+64-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:46:12-52:29
+64-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:46:27-52
 65                <action android:name="android.intent.action.VIEW" />
-65-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:47:17-69
-65-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:47:25-66
+65-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:47:17-69
+65-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:47:25-66
 66
 67                <category android:name="android.intent.category.DEFAULT" />
-67-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:48:17-76
-67-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:48:27-73
+67-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:48:17-76
+67-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:48:27-73
 68                <category android:name="android.intent.category.BROWSABLE" />
-68-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:49:17-78
-68-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:49:27-75
+68-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:49:17-78
+68-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:49:27-75
 69
 70                <data
-70-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:17-78
+70-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:17-78
 71                    android:host="*.cleanetto.com"
-71-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:45-75
+71-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:45-75
 72                    android:scheme="http" />
-72-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:23-44
+72-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:23-44
 73                <data android:scheme="https" />
-73-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:17-78
-73-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:23-44
+73-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:17-78
+73-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:50:23-44
 74            </intent-filter>
 75        </activity>
 76        <!--
@@ -125,17 +125,17 @@
 78             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 79        -->
 80        <meta-data
-80-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:57:9-59:33
+80-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:57:9-59:33
 81            android:name="flutterEmbedding"
-81-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:58:13-44
+81-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:58:13-44
 82            android:value="2" />
-82-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:59:13-30
+82-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:59:13-30
 83        <meta-data
-83-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:60:9-62:72
+83-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:60:9-62:72
 84            android:name="io.fabric.ApiKey"
-84-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:61:13-44
+84-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:61:13-44
 85            android:value="844c249d40cc22cb0f7ce9ce749f2f2fc8ed8508" />
-85-->E:\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:62:13-69
+85-->E:\BitCoding\Flutter\Applications\Car Surf\android\app\src\main\AndroidManifest.xml:62:13-69
 86    </application>
 87
 88</manifest>

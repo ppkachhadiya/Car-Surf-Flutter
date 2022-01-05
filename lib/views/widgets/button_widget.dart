@@ -1,3 +1,7 @@
+
+
+import 'package:path/path.dart';
+import 'package:flutter/material.dart';
 import 'package:cleaner/constants/colors_constants.dart';
 import 'package:cleaner/constants/size_constants.dart';
 import 'package:cleaner/views/widgets/common_text.dart';
@@ -80,32 +84,36 @@ class _CommonBigButtonState extends State<CommonBigButton> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 311,height: 56,decoration: BoxDecoration(color: Colors.teal ,borderRadius: BorderRadius.circular(5)),
-      
+      width: 311,height: 56,
+      decoration: BoxDecoration(color: Colors.teal ,borderRadius: BorderRadius.circular(5)),
+
     );
   }
 }
 
 
-
-class BigButton1{
-  BigWhiteButton({
+class BigButton{
+  bigSizeButton({
     required String name,
     required fontWeight,
     required double fontSize,
     fontFamily = 'Montserrat',
-    required color ,
+    required textColor ,
+    required buttonColor,
+    required shadowColor,
 
   }){
-    return InkWell(onTap: (){},
-      child: Container(width: 311,height: 56,
-        child: Center(child:CommonText().CommonInputText(name: 'Login/Register',
-          fontSize: 14, fontWeight: FontWeight.normal, color: ColorsConstants.DARK_TEXT_COLOR),),
-        decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(16),
-            color: ColorsConstants.WHITE_COLOR,),
-        ),
-    );
+    return Container(width: 311,height: 56,
+      child: Center(
+          child: Text(name,
+            style: TextStyle(fontSize: fontSize,fontWeight: fontWeight,
+      color: textColor),)
+      ),
+      decoration: BoxDecoration(
+        boxShadow: [BoxShadow(color: shadowColor,offset: Offset(0,4))],
+          borderRadius: BorderRadius.circular(16),
+          color: buttonColor),
+      );
   }
 }
 

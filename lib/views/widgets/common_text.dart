@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class CommonText{
-  CommonInputText({
+  commonInputText({
     required String name,
     required double fontSize,
     required fontWeight,
